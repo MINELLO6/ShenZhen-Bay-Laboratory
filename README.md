@@ -1,1 +1,2 @@
 # ShenZhen-Bay-Laboratory
+Welcome to the ShenZhen Bay Laboratory repository. Most of the essential content and detailed information about the project can be found in the PowerPoint (PPT) documents included in 深圳湾 folder. This PPT files provide comprehensive explanations of our research, methodologies, and results. More background information can refer to the notes https://www.notion.so/387c059e38fa432d8bd5a9f99b40569f?pvs=4
