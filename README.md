@@ -1,2 +1,4 @@
 # ShenZhen-Bay-Laboratory
 Welcome to the ShenZhen Bay Laboratory repository. Most of the essential content and detailed information about the project can be found in the SZBL_report_ppt included in this repository. This PPT provides comprehensive explanations of our research, methodologies, and results. For more background information can also refer to the notes https://www.notion.so/387c059e38fa432d8bd5a9f99b40569f?pvs=4
+
+Here in the input file folder, you can find the dataset we use. In Moran's I folder, 'Moran's I - 副本' shows the geographical characteristics of gene expressions, including global Moran, Local Moran, LISA, and gene expression plots; GWR folder shows the prediction method and result bu using GWR and MGWR; In Kriging folder, we have tried several methods by kriging interpolation(upsample and downsample) to increase the accuracy of integration method such as Tangram 
